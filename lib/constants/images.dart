@@ -21,3 +21,13 @@ const String kAbsLaqtta = 'assets/images/advanced_bottom_sheet/laqtta.jpg';
 const String kAbsMshFair = 'assets/images/advanced_bottom_sheet/mshFair.jpg';
 const String kAbsSkerty = 'assets/images/advanced_bottom_sheet/skerty.jpg';
 const String kAbsWegz = 'assets/images/advanced_bottom_sheet/wegz.jpg';
+
+// Clubhouse
+const String kClubhouseC1 = 'assets/images/clubhouse/c1.jpg';
+const String kClubhouseC2 = 'assets/images/clubhouse/c2.jpg';
+const String kClubhouseC4 = 'assets/images/clubhouse/c4.jpeg';
+const String kClubhouseC5 = 'assets/images/clubhouse/c5.jpeg';
+const String kClubhouse = 'assets/images/clubhouse/clubhouse.png';
+const String kClubhouseElon = 'assets/images/clubhouse/elon.jpg';
+const String kClubhouseJoe = 'assets/images/clubhouse/joe.webp';
+const String kClubhousePutin = 'assets/images/clubhouse/putin.jpeg';
