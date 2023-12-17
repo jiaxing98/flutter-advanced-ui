@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_ui_tutorial/features/clubhouse/presentation/pages/clubhouse_home_page.dart';
+import 'package:flutter_ui_tutorial/features/liquid_swipe/presentation/pages/onboarding_page.dart';
 import 'package:flutter_ui_tutorial/injection_container.dart';
 
 void main() async {
@@ -19,7 +20,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const ClubhouseHomePage(),
+      home: const OnBoardingPage(),
     );
   }
 }

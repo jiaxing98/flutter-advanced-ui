@@ -31,3 +31,7 @@ const String kClubhouse = 'assets/images/clubhouse/clubhouse.png';
 const String kClubhouseElon = 'assets/images/clubhouse/elon.jpg';
 const String kClubhouseJoe = 'assets/images/clubhouse/joe.webp';
 const String kClubhousePutin = 'assets/images/clubhouse/putin.jpeg';
+
+const String kMarketing1 = 'assets/images/liquid_swipe/marketing1.JPG';
+const String kMarketing2 = 'assets/images/liquid_swipe/marketing2.png';
+const String kMarketing3 = 'assets/images/liquid_swipe/marketing3.png';
